@@ -1,2 +1,2 @@
-if basicTeenager()>=13 && <=19{
-return("You are a teenager!")
+basicTeenager()>=13 && <=19{
+("You are a teenager!")
